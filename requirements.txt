@@ -1,0 +1,20 @@
+# DepthEye - XAUUSD Quantitative Analysis
+# Dependencias del proyecto
+
+# Análisis de datos
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Modelado de volatilidad
+arch>=6.2.0
+
+# Visualización (opcional)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilidades
+scipy>=1.10.0
+
+# Jupyter (para análisis interactivo - opcional)
+jupyter>=1.0.0
+ipykernel>=6.25.0
