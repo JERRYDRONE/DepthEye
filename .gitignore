@@ -15,7 +15,6 @@ build/
 *.ipynb
 
 # Datos sensibles
-data/*.csv
 !data/README_DATA.md
 
 # Reportes
